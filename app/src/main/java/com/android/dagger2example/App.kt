@@ -15,4 +15,6 @@ class App: Application() {
             .withApplication(this)
             .build()
     }
+
+    // Add something new
 }
