@@ -5,4 +5,8 @@ class Test {
     fun other(num: Int) {
 
     }
+
+    fun test() {
+
+    }
 }
